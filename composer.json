@@ -1,0 +1,32 @@
+{
+    "name": "willskates/arrayfetcher",
+    "type": "library",
+    "description": "A simple library loads arrays from different source files of different types.",
+    "keywords": ["array", "json", "yaml", "loading", "files"],
+    "homepage": "http://github.com/WillSkates/ArrayFetcher",
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "Will Skates",
+    		"email": "will@thisbe.ws",
+    		"homepage": "http://www.stuffby.ws",
+    		"role": "developer"
+    	}
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/config": "v2.3.0"
+    },
+    "support": {
+        "email": "support@thisbe.ws"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+    	"psr-0": {
+    		"": "src/"
+    	}
+    }
+}
