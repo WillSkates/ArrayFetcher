@@ -3,7 +3,7 @@
 A simple library that allows you to get an array of information from a file.
 
 ##Build Status
-[![Build Status](https://travis-ci.org/willskates/arrayfetcher.png?branch=master)](https://travis-ci.org/willskates/arrayfetcher) ![project status](http://stillmaintained.com/willskates/arrayfetcher.png) #
+[![Build Status](https://travis-ci.org/WillSkates/ArrayFetcher.png?branch=master)](https://travis-ci.org/WillSkates/ArrayFetcher)
 
 ##Requirements
 
