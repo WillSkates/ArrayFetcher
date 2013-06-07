@@ -5,6 +5,7 @@
     "keywords": ["array", "json", "yaml", "loading", "files"],
     "homepage": "http://github.com/WillSkates/ArrayFetcher",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
     	{
     		"name": "Will Skates",
