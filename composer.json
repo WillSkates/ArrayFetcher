@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "symfony/config": "v2.3.0"
+        "symfony/config": "v2.4.1"
     },
     "support": {
         "email": "support@thisbe.ws"
