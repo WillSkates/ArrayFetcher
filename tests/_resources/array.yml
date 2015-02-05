@@ -23,7 +23,7 @@ letters:
     - k
     - l
     - m
-    - n
+    - "n"
     - o
     - p
     - q
@@ -34,5 +34,5 @@ letters:
     - v
     - w
     - x
-    - y
+    - "y"
     - z
